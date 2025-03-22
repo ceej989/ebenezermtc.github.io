@@ -124,7 +124,7 @@ h1,h2,h3,h4,h5,h6{
 }
 /*****************home ********
 ******************************/
-#home {
+#home-welcome {
     background-color: #444;
     background-position: center 0%;
     background-size: auto;
@@ -145,6 +145,10 @@ h1,h2,h3,h4,h5,h6{
     z-index: 1;
 }
 
+#home-info{
+    background-color: #f1ede7;
+    color: #6f5836;
+}
 #about {
     background-color: #444;
     background-position: center 0%;
