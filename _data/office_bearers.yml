@@ -2,7 +2,7 @@
   - name: Rev George Abraham
     title: "President & Vicar"
     image_path: "Rev. George Abraham - President_Vicar.jpg"
-    phone: 516-754-6110
+    phone:
     email: 
 
   - name: Dr Susan Kurian
@@ -47,44 +47,44 @@
     phone: 
     email: 
     
-  - name: Reena Mathew
-    title: Sunday School Superintendent
-    image_path: "Reena Mathew - Superintendent.jpeg"
-    phone: 
-    email: 
+  # - name: Reena Mathew
+  #   title: Sunday School Superintendent
+  #   image_path: "Reena Mathew - Superintendent.jpeg"
+  #   phone: 
+  #   email: 
 
-  - name: Rahul Joseph
-    title: Youth Secretary
-    image_path: "Rahul Joseph - Youth Secretary.jpg"
-    phone: 
-    email: 
+  # - name: Rahul Joseph
+  #   title: Youth Secretary
+  #   image_path: "Rahul Joseph - Youth Secretary.jpg"
+  #   phone: 
+  #   email: 
 
-  - name: Tony Mathew
-    title: Yuvajana Sakhyam Secretary
-    image_path: "Tony Mathew - Yuvajana Sakhyam Secretary.png"
-    phone: 
-    email: 
+  # - name: Tony Mathew
+  #   title: Yuvajana Sakhyam Secretary
+  #   image_path: "Tony Mathew - Yuvajana Sakhyam Secretary.png"
+  #   phone: 
+  #   email: 
 
-  - name: Feby Varughese
-    title: Choir Leader
-    image_path: "Feby Varghese - Choir Leader.jpeg"
-    phone: 
-    email: 
+  # - name: Feby Varughese
+  #   title: Choir Leader
+  #   image_path: "Feby Varghese - Choir Leader.jpeg"
+  #   phone: 
+  #   email: 
 
-  - name: Jose Cherian
-    title: Diocesan (Assembly) Member
-    image_path: "Jose Cherian_Diocesan (Assembly) Member.png"
-    phone: 
-    email: 
+  # - name: Jose Cherian
+  #   title: Diocesan (Assembly) Member
+  #   image_path: "Jose Cherian_Diocesan (Assembly) Member.png"
+  #   phone: 
+  #   email: 
 
-  - name: CS Chacko
-    title: Edvaka Mission Secretary
-    image_path: "C.S. Chacko - Edvaka Mission Secretary.jpg"
-    phone: 
-    email: 
+  # - name: CS Chacko
+  #   title: Edvaka Mission Secretary
+  #   image_path: "C.S. Chacko - Edvaka Mission Secretary.jpg"
+  #   phone: 
+  #   email: 
     
-  - name: Reena Mathew
-    title: Sevika Sanghom Secretary
-    image_path: "Reena Mathew - Sevika Sanghom Secretary.jpg"
-    phone:
-    email:
+  # - name: Reena Mathew
+  #   title: Sevika Sanghom Secretary
+  #   image_path: "Reena Mathew - Sevika Sanghom Secretary.jpg"
+  #   phone:
+  #   email:

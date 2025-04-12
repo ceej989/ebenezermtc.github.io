@@ -5,7 +5,6 @@ date:   2025-02-01
 categories: 
   - youthchap
 ---
-
 Glory be to the Father, Son, and Holy Spirit - One True God! Amen.
 
 
