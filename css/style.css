@@ -72,7 +72,7 @@ h1,h2,h3,h4,h5,h6{
     color: #795936;
 }
 
-p{
+p, li{
     color:#795936;
     font-family: TTForsTrialRegular, sans-serif;
     font-size: 16px;
@@ -263,6 +263,28 @@ p{
     overflow-y: hidden;
     vertical-align: middle;
     z-index: 1;
+}
+
+#footer-contact {
+    background-color: #F1EEE8;
+    background-position: center 0%;
+    background-size: auto;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-image: url(../img/12.\ Contact\ Us.png);
+    display: table;
+    width: 100%;
+    height: 665px;
+    min-height: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    vertical-align: middle;
+    z-index: 1;
+}
+
+#footer-info{
+    background-color: #705936;
+    
 }
 
 .parallax-overlay{

@@ -1,12 +1,14 @@
-<section id="exec-comm" class="section-padding container">
-  <div class="text-left col-sm-12">
-    <h1>Meet the Executive Committee Members</h1>
-    <br/><br/>
-  </div><!--center heading-->
-  <div class="row officers">
+<section id="exec-comm" class="section-padding">
+  <div class="container">
+    <div class="text-left col-sm-12">
+      <h1>Meet the Executive Committee Members</h1>
+      <br/><br/>
+    </div><!--center heading-->
+    <div class="row officers">
 
-   {% for officer in site.data.office_bearers %} 
-   {% include office_bearer.html %}
-   {% endfor %}
+    {% for officer in site.data.office_bearers %} 
+    {% include office_bearer.html %}
+    {% endfor %}
+  </div>
 </div>
 </section><!--End Office Bearers Section-->
